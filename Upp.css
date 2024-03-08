@@ -1,0 +1,33 @@
+
+H1{
+background-color: red;
+color: white;
+}
+
+p:hover{
+opacity: 0,5;
+text-transform: uppercase;
+
+}
+
+p{
+
+font-size: large;
+color:white;
+background-color: orange;
+}
+div{
+color: solid black;
+}
+
+
+img:hover{
+opacity: 0.5;
+}
+
+*{
+border: 2px solid red;
+background-color: orange;
+margin: 10px;
+}
+ 
